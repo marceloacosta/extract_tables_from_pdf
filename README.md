@@ -31,7 +31,7 @@ The script will extract all tables from the input PDF file and save them as sepa
 
 ## Troubleshooting
 
-If you encounter issues related to Java, please ensure that the `JAVA_HOME` environment variable is set correctly. Follow the instructions in the [previous response](https://www.reddit.com/r/ChatGPT/comments/t5v5g5/-/h5np5w0) to set up `JAVA_HOME` and the `PATH` environment variable for your operating system.
+If you encounter issues related to Java, please ensure that the `JAVA_HOME` environment variable is set correctly. 
 
 ## License
 
